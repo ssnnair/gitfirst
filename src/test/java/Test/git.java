@@ -12,5 +12,10 @@ public class git {
 		System.out.println("new changes in my old structure");
 	}
 	
+	public void newchanges()
+	{
+		System.out.println("old changes in new structew" );
+	}
+	
 
 }
