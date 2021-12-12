@@ -9,6 +9,8 @@ public class git {
 	{
 		
 		System.out.println("This is my first git");
+		System.out.println("new changes in my old structure");
 	}
+	
 
 }
