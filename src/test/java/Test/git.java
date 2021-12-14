@@ -28,4 +28,8 @@ public class git {
 		System.out.println("Last changes before wrapping this set");
 	}
 	
+	public void masterchanges()
+	{
+		System.out.println("master changes");
+	}
 }
