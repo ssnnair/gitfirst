@@ -17,5 +17,14 @@ public class git {
 		System.out.println("old changes in new structew" );
 	}
 	
-
+	public void newchanges2()
+	{
+		System.out.println("old changes in new structew" );
+	}
+	
+	public void thisisit()
+	{
+		System.out.println("This is to make sure development branch is functioinng as expected");
+	}
+	
 }
