@@ -17,5 +17,9 @@ public class git {
 		System.out.println("old changes in new structew" );
 	}
 	
-
+	public void newchanges2()
+	{
+		System.out.println("old changes in new structew" );
+	}
+	
 }
