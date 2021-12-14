@@ -25,6 +25,7 @@ public class git {
 	public void thisisit()
 	{
 		System.out.println("This is to make sure development branch is functioinng as expected");
+		System.out.println("Last changes before wrapping this set");
 	}
 	
 }
