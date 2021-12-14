@@ -33,5 +33,8 @@ public class git {
 		System.out.println("master changes");
 	}
 	
-	
+	public void development()
+	{
+		System.out.println("this is for development");
+	}
 }
